@@ -1,0 +1,8 @@
+{
+  "name": "Soluf-th Dev Hub",
+  "description": "A high-performance developer ecosystem and IDE dashboard inspired by VS Code and Solidity smart contract environments, featuring AI-powered code assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
